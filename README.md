@@ -32,7 +32,7 @@ The dataset for this project includes various details about products stored in a
 ## Interactive Dashboard
 Below is an example of the dashboard created during this project:
 
-![Warehouse Space Utilization Dashboard](images1/dashboard.png)
+![Warehouse Space Utilization Dashboard](https://github.com/Meghana157/Warehouse-space-utilization-analysis/blob/main/Dashboard.png)
 
 The dashboard visualizes:
 - Total revenue by category
